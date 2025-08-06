@@ -1,0 +1,15 @@
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.exe
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.deps.json
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.runtimeconfig.json
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.dll
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.pdb
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.csproj.AssemblyReference.cache
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.AssemblyInfoInputs.cache
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.AssemblyInfo.cs
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.csproj.CoreCompileInputs.cache
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.dll
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\refint\Ejercicio 2.dll
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.pdb
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.genruntimeconfig.cache
+D:\Ejersicios c#\Ejercicio 2\Ejercicio 2\obj\Debug\net7.0\ref\Ejercicio 2.dll

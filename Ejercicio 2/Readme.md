@@ -1,0 +1,1 @@
+Calcular la paga neta  de  un trabajador conociendo el numero de horas trabajadas, la tarifa horaria y la tasa de impuestos
