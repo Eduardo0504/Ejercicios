@@ -1,0 +1,1 @@
+Se desea obtner una tabla con las depreciaciones acumuladas y los valores reales de cada año, de un automovil comprado por 20,000 euros en el año 2005,durante los seis años suponiendo un valor de recuperacion o rescate de 2,000. Realizar el analisis del  problema, conociendo la formula de depreciacion anual constante D para cada vida util.

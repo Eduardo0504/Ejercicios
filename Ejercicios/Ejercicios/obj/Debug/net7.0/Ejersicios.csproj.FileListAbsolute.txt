@@ -1,0 +1,15 @@
+D:\Ejersicios c#\Ejersicios\Ejersicios\bin\Debug\net7.0\Ejersicios.exe
+D:\Ejersicios c#\Ejersicios\Ejersicios\bin\Debug\net7.0\Ejersicios.deps.json
+D:\Ejersicios c#\Ejersicios\Ejersicios\bin\Debug\net7.0\Ejersicios.runtimeconfig.json
+D:\Ejersicios c#\Ejersicios\Ejersicios\bin\Debug\net7.0\Ejersicios.dll
+D:\Ejersicios c#\Ejersicios\Ejersicios\bin\Debug\net7.0\Ejersicios.pdb
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.csproj.AssemblyReference.cache
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.AssemblyInfoInputs.cache
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.AssemblyInfo.cs
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.csproj.CoreCompileInputs.cache
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.dll
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\refint\Ejersicios.dll
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.pdb
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\Ejersicios.genruntimeconfig.cache
+D:\Ejersicios c#\Ejersicios\Ejersicios\obj\Debug\net7.0\ref\Ejersicios.dll
