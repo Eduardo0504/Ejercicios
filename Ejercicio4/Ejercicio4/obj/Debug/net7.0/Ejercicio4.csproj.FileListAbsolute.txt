@@ -1,0 +1,15 @@
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\bin\Debug\net7.0\Ejercicio4.exe
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\bin\Debug\net7.0\Ejercicio4.deps.json
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\bin\Debug\net7.0\Ejercicio4.runtimeconfig.json
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\bin\Debug\net7.0\Ejercicio4.dll
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\bin\Debug\net7.0\Ejercicio4.pdb
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.csproj.AssemblyReference.cache
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.AssemblyInfoInputs.cache
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.AssemblyInfo.cs
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.dll
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\refint\Ejercicio4.dll
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.pdb
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.genruntimeconfig.cache
+D:\Ejersicios c#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\ref\Ejercicio4.dll
