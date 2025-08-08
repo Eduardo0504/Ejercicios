@@ -1,0 +1,15 @@
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\bin\Debug\net7.0\Ejersicio3.exe
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\bin\Debug\net7.0\Ejersicio3.deps.json
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\bin\Debug\net7.0\Ejersicio3.runtimeconfig.json
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\bin\Debug\net7.0\Ejersicio3.dll
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\bin\Debug\net7.0\Ejersicio3.pdb
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.csproj.AssemblyReference.cache
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.AssemblyInfoInputs.cache
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.AssemblyInfo.cs
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.csproj.CoreCompileInputs.cache
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.dll
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\refint\Ejersicio3.dll
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.pdb
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\Ejersicio3.genruntimeconfig.cache
+D:\Ejersicios c#\Ejersicio3\Ejersicio3\obj\Debug\net7.0\ref\Ejersicio3.dll
